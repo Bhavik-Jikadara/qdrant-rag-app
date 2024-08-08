@@ -7,7 +7,7 @@ This project is a Retrieval-Augmented Generation (RAG) application using the Qdr
 * **Clone the Repository**: If you haven't already, clone the repository to your local machine:
 
     ```bash
-    git clone <https://github.com/Bhavik-Jikadara/qdrant-rag-app.git>
+    git clone https://github.com/Bhavik-Jikadara/qdrant-rag-app.git
     cd qdrant-rag-app
     ```
 
