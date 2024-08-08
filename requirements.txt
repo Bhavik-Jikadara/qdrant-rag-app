@@ -1,0 +1,11 @@
+langchain
+sentence-transformers
+torch
+pypdf
+qdrant-client
+langchain-huggingface
+langchain-openai
+langchain-community
+langchain-core
+langchain-qdrant
+qdrant-client[fastembed]
